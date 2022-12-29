@@ -24,7 +24,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "copy": "^0.3.1",
-    "dat.gui": "^0.6.5",
+    "dat.gui": "^0.7.9",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "phaser-ce": "^2.9.3"
